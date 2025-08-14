@@ -1,2 +1,3 @@
 This is my first Git project
 Figuring out how to use Git will be a fun challenge
+This is my first commit working inside VS Code!
